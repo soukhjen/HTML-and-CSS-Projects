@@ -1,0 +1,7 @@
+/* This is stylesheet for my list in the "HTML_Lists" file */ 
+ol { 
+	list-style-type: upper-roman; 
+} 
+ul { 
+	list-style-type: square; 
+} 
